@@ -156,6 +156,11 @@ def run_agent(user_query):
 if __name__ == "__main__":
     run_agent("What is the weather in Dubai?")
 ```
+
+
+---
+
+## 🔬 Lab Analysis
 ```python
 # agent_lab.py
 # main entry point
@@ -179,9 +184,6 @@ if __name__ == "__main__":
     main()
 ```
 
----
-
-## 🔬 Lab Analysis
 
 Save this code as `agent_lab.py` and run it:
 `python agent_lab.py`
