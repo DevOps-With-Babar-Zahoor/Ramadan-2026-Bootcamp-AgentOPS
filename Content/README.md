@@ -1,0 +1,31 @@
+# AgentOps: Production-Grade Agentic AI on Kubernetes
+- Episode 1: Welcome to AgentOps: From Chatbots to Autonomous Agents
+- Episode 2: Anatomy of an AI Agent: Goals, Actions, and Tools
+- Episode 3: Empowering Agents with Memory and Knowledge (RAG)
+- Episode 4: Planning and Reasoning: Making Agents Truly Autonomous
+- Episode 5: Multi-Agent Systems: Collaboration and Specialization
+- Episode 6: Observability for Agents: Introducing AgentOps
+- Episode 7: From Local Script to Container: Packaging Your First Agent
+- Episode 8: Kubernetes Primer for AI Engineers
+- Episode 9: Architecting Agentic Workflows on Kubernetes
+- Episode 10: Managing Agent State: Redis and Databases
+- Episode 11: Building a RAG Pipeline on Kubernetes
+- Episode 12: Securing Your Agents: Network Policies and Secrets
+- Episode 13: Observability Part 1: Logging and Tracing
+- Episode 14: Observability Part 2: Metrics and Alerting with Prometheus
+- Episode 15: Autoscaling Agents: HPA and KEDA
+- Episode 16: CI/CD for Agents: GitOps with Argo CD
+- Episode 17: Advanced Deployment Strategies: Canary Releases
+- Episode 18: Cost Optimization for Agent Workloads
+- Episode 19: Reliability Patterns: Timeouts, Retries, and Circuit Breakers
+- Episode 20: Ambient Agents: Event-Driven Automation
+- Episode 21: Standardizing Agent Communication: Model Context Protocol (MCP)
+- Episode 22: Agent-to-Agent Communication: A2A Protocol
+- Episode 23: Checkpointing for Long-Running Agents
+- Episode 24: Running Agents with KServe and KubeRay
+- Episode 25: Fine-Tuning Models for Your Agents on Kubernetes
+- Episode 26: Building a Multi-Modal Agent
+- Episode 27: Security Deep Dive: Identity and Zero-Trust for Agents
+- Episode 28: Performance Tuning: Optimizing the Agent Loop
+- Episode 29: The Future of Agentic AI and Kubernetes
+- Episode 30: Capstone Project Kickoff & Course Wrap-up
