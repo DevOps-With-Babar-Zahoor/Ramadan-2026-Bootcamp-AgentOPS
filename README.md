@@ -7,3 +7,4 @@ AgentOps: Production-Grade Agentic AI on Kubernetes
 - [Lecture 03](https://github.com/DevOps-With-Babar-Zahoor/Ramadan-2026-Bootcamp-AgentOPS/tree/main/Lecture03) - Build a Local RAG Prototype with ChromaDB.
 - [Lecture 04](https://github.com/DevOps-With-Babar-Zahoor/Ramadan-2026-Bootcamp-AgentOPS/tree/main/Lecture04) - Implement a Simple Sequential Planner in Python
 - [Lecture 05](https://github.com/DevOps-With-Babar-Zahoor/Ramadan-2026-Bootcamp-AgentOPS/tree/main/Lecture05) - Build a Simple Multi-Agent Collaboration Prototype in Python
+- [Lecture 06](https://github.com/DevOps-With-Babar-Zahoor/Ramadan-2026-Bootcamp-AgentOPS/tree/main/Lecture06) - Building and Observing a Multi-Agent System with CrewAI + AgentOps
